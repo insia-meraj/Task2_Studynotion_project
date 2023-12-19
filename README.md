@@ -31,7 +31,8 @@ After this the user gets redirected to the profile page, before which we extract
 1) Click on Log out button on the top right corner.
 As soon as the user clicks on Logout button we simply remove the cookie from the request object and redirect the user to the sign in page.
 # To Contact us
-![Contact](https://github.com/insia-meraj/Task2_Studynotion_project/assets/142750155/1c0c9a82-c626-4cfa-a07f-c99b30cbedc9)
+![Contactform](https://github.com/insia-meraj/Task2_Studynotion_project/assets/142750155/77dd03a0-835f-4c10-9ffe-55301dd29a24)
+
 
 1) Click on Contact us button on the top right corner.
 
