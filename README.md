@@ -1,1 +1,1 @@
-# Task2_Studynotion_project
+# StudyNotion Edtech Project
