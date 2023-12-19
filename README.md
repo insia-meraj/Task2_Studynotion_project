@@ -1,11 +1,11 @@
 # StudyNotion Edtech Project
-It is a fully functional project with responsive design
+It is a fully functional project with responsive design.
+It has many pages home,about us and contact us.
+Has a Login and Logout flow which is be connected with Database MongoDB.
 # Pre-requisites:
-1) Nodejs
-2) MongoDB
-3) Open the terminal, enter `npm i` to install all the dependencies
-4) To launch the server, enter command `nodemon start`.
-
+ Nodejs
+ MongoDB
+ Open the terminal, enter `npm i` to install all the dependencies. To launch the server, enter command `nodemon start`.
 ![home](https://github.com/insia-meraj/Task2_Studynotion_project/assets/142750155/4017f4e6-ce75-4d3e-b2ad-e5ddf560b5a2)
 
 # To register the user:
