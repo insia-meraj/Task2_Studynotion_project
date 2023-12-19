@@ -1,6 +1,6 @@
 # StudyNotion Edtech Project
 It is a fully functional project with responsive design.
-It has many pages home,about us and contact us.
+It has pages like home,about us and contact us.
 Has a Login and Logout flow which is be connected with Database MongoDB.
 # Pre-requisites:
  Nodejs
